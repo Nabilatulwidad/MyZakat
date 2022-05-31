@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Zakat </string>
+    <string name="copyright">Copyright (c) 2022 Widad Hafizah </string>
+    <string name="Let_calculate">Let\'s calculate</string>
+    <string name="yourzakat">your zakat now!</string>
+    <string name="weight">Weight of the gold (g)</string>
+    <string name="type">Type of Gold</string>
+    <string name="keep">Keep</string>
+    <string name="wear">Wear</string>
+    <string name="current_gold">Current gold value(RM)</string>
+    <string name="output">Output</string>
+    <string name="calculate">calculate</string>
+    <string name="reset">reset</string>
+    <string name="about">About us</string>
+    <string name="sem5">RCS2515A</string>
+    <string name="info">My Zakat calculator will do the rest for you,</string>
+    <string name="info1">by calculating the accurate zakat.</string>
+    <string name="info3"> This app is specifically for the Muslim community </string>
+    <string name="info4">  so they can calculate a portion of gold </string>
+    <string name="member">  Our member </string>
+
+
+    <string name="studentCardPij">2021119233</string>
+    <string name="studentCardWid">2021149753</string>
+    <string name="job">Mobile Developer</string>
+    <string name="nameWidad">Nabilatul Widad Bt Abd Mueiz</string>
+    <string name="namePijah">NorHafizah Bt Ayob</string>
+    <string name="link"><a href="https://ict650.github.io/MyZakat.com/">Visit Our Official Website</a></string>
+
+</resources>
